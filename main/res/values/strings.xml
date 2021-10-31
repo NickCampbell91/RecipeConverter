@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recipe Converter</string>
+
+    <string-array name="measurementType_array">
+        <item>Cups</item>
+        <item>/2 Cups</item>
+        <item>/3 Cups</item>
+        <item>/4 Cups</item>
+        <item>Tablespoons</item>
+        <item>Teaspoons</item>
+    </string-array>
+</resources>
